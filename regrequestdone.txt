@@ -2,3 +2,8 @@ REQUESTFROM:vlad09melitopol@gmail.com
 #####
 ERROR: Too many registration request have been done in the last 24h!
 #####
+
+REQUESTFROM:joslui0409@gmail.com
+#####
+ERROR: Email NOT found in the 'Server Users/Orders' list!
+#####
