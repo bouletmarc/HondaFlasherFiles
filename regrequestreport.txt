@@ -1,8 +1,1 @@
-GOOD REQUEST FROM
-##########################
-Name=Sake Suwantham
-Email=sakekub@hotmail.co.th
-LicID=6EA-FEBF-0054-F4C1-FBFF
-LicType=1
-LicExpDate=2027-08-14
-
+NONE
