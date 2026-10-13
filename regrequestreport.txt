@@ -1,8 +1,1 @@
-GOOD REQUEST FROM
-##########################
-Name=Emrecan TiMURCiN
-Email=mrcntmrcn@gmail.com
-LicID=6A9-FEBF-C4D6-D756-FBFF
-LicType=1
-LicExpDate=Lifetime
-
+NONE
