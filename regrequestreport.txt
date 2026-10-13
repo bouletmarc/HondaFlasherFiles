@@ -1,1 +1,8 @@
-NONE
+GOOD REQUEST FROM
+##########################
+Name=rc-tuner
+Email=solucionestecnologicasrc@gmail.com
+LicID=6E5-FEBF-C466-B790-FBFF
+LicType=1
+LicExpDate=2027-07-19
+
