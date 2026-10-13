@@ -1,8 +1,1 @@
-GOOD REQUEST FROM
-##########################
-Name=Oleksandr Kasianenko
-Email=reflashclub@gmail.com
-LicID=6EA-FEBF-2A22-FEE9-FBFF
-LicType=1
-LicExpDate=Lifetime
-
+NONE
