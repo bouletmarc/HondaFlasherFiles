@@ -1,1 +1,8 @@
-NONE
+GOOD REQUEST FROM
+##########################
+Name=Fuji Xoxo
+Email=francis.stabrigida@gmail.com
+LicID=6E9-FEBF-A41F-9230-FBFF
+LicType=1
+LicExpDate=2026-05-27
+
