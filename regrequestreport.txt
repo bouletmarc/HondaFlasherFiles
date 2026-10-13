@@ -1,1 +1,8 @@
-NONE
+GOOD REQUEST FROM
+##########################
+Name=??? ????????
+Email=stu2101321049@uni-plovdiv.bg
+LicID=6C1-FEBF-7441-CA93-FBFF
+LicType=1
+LicExpDate=Lifetime
+
