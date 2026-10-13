@@ -1,8 +1,1 @@
-BAD REQUEST FROM
-##########################
-Name=joey plum
-Email=joe420a@outlook.com
-LicID=651-FEBF-F85D-5F9A-FBFF
-LicType=1
-LicExpDate=Lifetime
-
+NONE
