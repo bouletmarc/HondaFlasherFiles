@@ -1,2 +1,1 @@
-NOT REG: 6A3-FEBF-F444-6040-FBFF
-###########
+NONE
