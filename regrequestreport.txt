@@ -1,8 +1,1 @@
-GOOD REQUEST FROM
-##########################
-Name=Joan Diaz
-Email=angel070483@gmail.com
-LicID=671-FEBF-90A8-F7C4-FBFF
-LicType=1
-LicExpDate=2027-05-05
-
+NONE
