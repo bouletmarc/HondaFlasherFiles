@@ -1,8 +1,1 @@
-GOOD REQUEST FROM
-##########################
-Name=David Xiong
-Email=dxiong1998@yahoo.com
-LicID=6EA-FEBF-9241-30A5-FBFF
-LicType=1
-LicExpDate=2026-09-05
-
+NONE
