@@ -1,1 +1,8 @@
-NONE
+BAD REQUEST FROM
+##########################
+Name=FRS Shuhei Fujii
+Email=info@fujiirs.com
+LicID=6EC-FEBF-978F-F6E0-FBFF
+LicType=1
+LicExpDate=Lifetime
+
