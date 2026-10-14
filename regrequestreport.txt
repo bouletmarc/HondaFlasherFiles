@@ -1,1 +1,8 @@
-NONE
+BAD REQUEST FROM
+##########################
+Name=Ricardo Lopez
+Email=ricardoalopezl@hotmail.com
+LicID=6A4-FEBF-5E3C-122D-FBFF
+LicType=1
+LicExpDate=Lifetime
+
