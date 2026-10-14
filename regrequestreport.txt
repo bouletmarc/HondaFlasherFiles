@@ -1,8 +1,1 @@
-GOOD REQUEST FROM
-##########################
-Name=Daniel Alfaro
-Email=daniel.pll@hotmail.com
-LicID=6C1-FEBF-7876-65D3-FBFF
-LicType=1
-LicExpDate=Lifetime
-
+NONE
