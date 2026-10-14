@@ -1,8 +1,1 @@
-GOOD REQUEST FROM
-##########################
-Name=craig knowles
-Email=prawler112@hotmail.com
-LicID=676-FEBF-60ED-6E77-FBFF
-LicType=1
-LicExpDate=2026-10-17
-
+NONE
