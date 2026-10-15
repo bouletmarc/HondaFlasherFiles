@@ -1,8 +1,1 @@
-GOOD REQUEST FROM
-##########################
-Name=Pinghua Zheng tom peters
-Email=gjh789@gmail.com
-LicID=6EA-FEBF-0C9C-396E-FBFF
-LicType=1
-LicExpDate=2027-05-24
-
+NONE
