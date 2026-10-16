@@ -1,1 +1,8 @@
-NONE
+GOOD REQUEST FROM
+##########################
+Name=Samuel Mainville
+Email=info@hexatuning.com
+LicID=6A4-FEBF-3CF1-3794-FBFF
+LicType=1
+LicExpDate=2026-08-31
+
