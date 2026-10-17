@@ -1,1 +1,8 @@
-NONE
+GOOD REQUEST FROM
+##########################
+Name=avto_box avto_box
+Email=310090@mail.ru
+LicID=F00-78BF-D613-3670-FBFF
+LicType=1
+LicExpDate=Lifetime
+
