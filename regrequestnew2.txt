@@ -1,2 +1,1 @@
-NOT REG: 6A2-FEBF-D470-0E54-FBFF
-###########
+NONE
