@@ -1,1 +1,8 @@
-NONE
+GOOD REQUEST FROM
+##########################
+Name=Yura Yura
+Email=alura75@gmail.com
+LicID=6EC-FEBF-BA8C-9A21-FBFF
+LicType=1
+LicExpDate=Lifetime
+
