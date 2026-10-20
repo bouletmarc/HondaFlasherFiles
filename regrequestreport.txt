@@ -1,1 +1,8 @@
-NONE
+GOOD REQUEST FROM
+##########################
+Name=Kostas Koutras
+Email=KKoutras@ccc.net
+LicID=6E3-FEBF-182B-E321-FBFF
+LicType=1
+LicExpDate=2027-07-17
+
