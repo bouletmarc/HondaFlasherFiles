@@ -1,2 +1,1 @@
-NOT REG: F00-78BF-F292-E992-FBFF
-###########
+NONE
